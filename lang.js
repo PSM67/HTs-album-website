@@ -32,6 +32,7 @@ const LANG = {
         bioeng: "Work shop ทางด้านวิศวกรรมชีวการแพทย์",
         draw: "Work shop  วาดรูปทางด้านชีววิทยา และการทําAR",
         app: "Workshop หัวข้อ “แนวทางการพัฒนานวัตกรรมแอพลิเคชันทางการแพทย์”",
+        major: "การเรียนวิชาเอก",
     },
     en: {
         head: "HT's Album",
@@ -66,6 +67,7 @@ const LANG = {
         bioeng: "Biomedical Engineering Workshop",
         draw: "Workshop on Biological Drawing and AR Creation",
         app: "Workshop on “Guidelines for Developing Medical Application Innovations”",
+        major: "Major Class E-Book" ,
     }
 };
 
