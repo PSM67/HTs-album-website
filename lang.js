@@ -67,7 +67,7 @@ const LANG = {
         bioeng: "Biomedical Engineering Workshop",
         draw: "Workshop on Biological Drawing and AR Creation",
         app: "Workshop on “Guidelines for Developing Medical Application Innovations”",
-        major: "Major Class E-Book" ,
+        major: "Major Class E-Book",
     }
 };
 
