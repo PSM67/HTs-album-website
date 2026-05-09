@@ -40,6 +40,7 @@ const LANG = {
         level5: "Grade 11",
         level4: "Grade 10",
         posn: "POSN ",
+        major: "Major Class E-Book",
         detail: "Detail",
         drone1: "Drone Mission",
         drone2: "Drone Mission 2",
@@ -67,7 +68,6 @@ const LANG = {
         bioeng: "Biomedical Engineering Workshop",
         draw: "Workshop on Biological Drawing and AR Creation",
         app: "Workshop on “Guidelines for Developing Medical Application Innovations”",
-        major: "Major Class E-Book",
     }
 };
 
